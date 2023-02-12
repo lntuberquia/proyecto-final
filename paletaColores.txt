@@ -1,0 +1,6 @@
+Paleta de colores:
+* #212121
+* #83094e
+* #a781a8
+* #bdb1c8
+* #fff
